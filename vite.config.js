@@ -9,5 +9,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  // base: '/Portfolio-React/',
+   base: '/Portfolio-React/',
 })
